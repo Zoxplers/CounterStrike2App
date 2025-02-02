@@ -1,0 +1,7 @@
+#sidebar
+{
+    background: gray;
+    flex-grow: 1;
+    min-width: 15vw;
+    max-width: 30vh;
+}
